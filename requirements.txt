@@ -1,0 +1,16 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.2
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+scikit-learn>=1.5
+statsmodels>=0.14
+transformers>=4.40
+accelerate>=0.27
+safetensors>=0.4.2
+tqdm>=4.66
+gdown>=5.1
+matplotlib>=3.9
+
+
